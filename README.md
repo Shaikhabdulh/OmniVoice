@@ -96,7 +96,7 @@ python -c "import torch; print(torch.xpu.is_available(), torch.xpu.device_count(
 pip install omnivoice
 
 # From the latest source on GitHub (no need to clone)
-pip install git+https://github.com/k2-fsa/OmniVoice.git
+pip install git+https://github.com/Shaikhabdulh/OmniVoice.git
 
 # For development (clone first, editable install)
 git clone https://github.com/k2-fsa/OmniVoice.git
